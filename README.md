@@ -7,7 +7,7 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-python extract.py
+./run_pipeline.sh
 ```
 
 Thank you to arXiv for use of its open access interoperability.
